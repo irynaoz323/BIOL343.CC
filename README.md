@@ -1,2 +1,2 @@
 # BIOL343.CC
-coding challenge 2
+This repository contains the files for BIOL343 coding challenge 2
